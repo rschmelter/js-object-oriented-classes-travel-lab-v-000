@@ -2,14 +2,14 @@
 class Driver {
   constructor(name, startDate) {
     this.name = name;
-    this.startDate = Date();
+    this.startDate = startDate
   }
 
-  
+
 }
 
 class Route {
 
 
-  
+
 }
